@@ -11,13 +11,6 @@ export default {
   getHomeList: async () => {
     return [
       {
-        slug: "originals",
-        title: "Originais do Netflix",
-        items: await basicFetch(
-          `/discover/tv?with_network=213&language=pt-BR&api_key=${API_KEY}`
-        ),
-      },
-      {
         slug: "trendings",
         title: "Recomendados para Você",
         items: await basicFetch(
@@ -64,6 +57,13 @@ export default {
         title: "Documentários",
         items: await basicFetch(
           `/discover/movie?with_genres=99&language=pt-BR&api_key=${API_KEY}`
+        ),
+      },
+      {
+        slug: "originals",
+        title: "Originais do Netflix",
+        items: await basicFetch(
+          `/discover/tv?with_network=213&language=pt-BR&api_key=${API_KEY}`
         ),
       },
     ];
