@@ -1,6 +1,7 @@
-  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif.gif" alt="Gif preview 1">
-  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif2.gif" alt="Gif preview 2">
-
+  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif.gif" alt="Gif preview 1 ">
+ <p align="center">
+  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif2.gif" alt="Gif preview 2" >
+  </p>
 
 ## ✨ Tecnologias
 
