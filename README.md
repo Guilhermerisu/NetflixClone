@@ -1,3 +1,5 @@
+  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif.gif" alt="Gif preview 1">
+  <img src="https://github.com/Guilhermerisu/NetflixClone/blob/main/src/assets/PreviewGif2.gif" alt="Gif preview 2">
 
 
 ## ✨ Tecnologias
@@ -22,7 +24,3 @@ Este site está disponível para testes via Heroku pelo link: <a href="https://n
 - Inicie o servidor com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
